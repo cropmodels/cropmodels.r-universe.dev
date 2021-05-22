@@ -1,0 +1,18 @@
+[
+    {
+        "package": "Rquefts",
+        "url": "https://github.com/cropmodels/Rquefts"
+    },
+    {
+        "package": "Rwofost",
+        "url": "https://github.com/cropmodels/Rwofost"
+    },
+    {
+        "package": "meteor",
+        "url": "https://github.com/cropmodels/meteor"
+    },
+    {
+        "package": "Recocrop",
+        "url": "https://github.com/cropmodels/Recocrop"
+    }   
+]
