@@ -12,6 +12,10 @@
         "url": "https://github.com/cropmodels/meteor"
     },
     {
+        "package": "pheonorice",
+        "url": "https://github.com/cropmodels/pheonorice"
+    },
+    {
         "package": "Recocrop",
         "url": "https://github.com/cropmodels/Recocrop"
     }   
