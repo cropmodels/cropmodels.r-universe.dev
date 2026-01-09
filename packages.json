@@ -18,5 +18,9 @@
     {
         "package": "Recocrop",
         "url": "https://github.com/cropmodels/Recocrop"
+    },   
+    {
+        "package": "LINTULcassava",
+        "url": "https://github.com/cropmodels/LINTULcassava"
     }   
 ]
